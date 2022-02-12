@@ -6,5 +6,5 @@ import (
 
 // GetMessage returns hello world string
 func GetMessage() string {
-	return emoji.Sprint("Hello :wolrd_map:!")
+	return emoji.Sprint("Hello :world_map:!")
 }
